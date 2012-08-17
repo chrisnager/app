@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+# version xxxxxxxxx
+
+CACHE:
+# html files
+/
+
+# css files
+/css/style.css
+
+# js files
+/js/helper.js
+/js/script.js
+/js/plugins.js
+
+# image files
+/img/h/apple-touch-icon.png
+
+FALLBACK:
+
+NETWORK:
+*
